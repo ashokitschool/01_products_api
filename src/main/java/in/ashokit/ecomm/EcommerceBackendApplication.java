@@ -9,6 +9,7 @@ public class EcommerceBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EcommerceBackendApplication.class, args);
 		int f = 10;
+		int k = 25;
 
 		
 	}
