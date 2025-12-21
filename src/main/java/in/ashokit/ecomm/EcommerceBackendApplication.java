@@ -25,6 +25,8 @@ public class EcommerceBackendApplication {
 
 		int i = 10;
 		int k =20;
+
+		String name = "Ram Yalamarthi"
 	}
 
 }
