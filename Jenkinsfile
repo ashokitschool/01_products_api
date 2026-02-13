@@ -29,7 +29,7 @@ pipeline {
             }
             }
         }
-        stage('kubernetes deployment'){
+        stage('kubernetes  Ram deployment'){
             steps{
              sh 'kubectl apply -f Deployment.yml'
             }
