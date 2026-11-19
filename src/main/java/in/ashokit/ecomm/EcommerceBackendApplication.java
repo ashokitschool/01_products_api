@@ -15,5 +15,9 @@ public class EcommerceBackendApplication {
 		int j = 10;
 		
 	}
+	void m1() {
+			System.out.println("jira101");
+			System.out.println("jira101");
+		}
 
 }
